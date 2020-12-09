@@ -1,0 +1,1 @@
+var json_Megawon_1 = {"type":"FeatureCollection","name":"Megawon_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[110.875264347828278,-6.824063045393471]}}]}
